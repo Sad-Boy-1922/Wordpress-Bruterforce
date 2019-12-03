@@ -1,8 +1,8 @@
-# wpbruteforce
-Wordpress Brute Force Bia WebBased
+#Wordpress Bruterforce
+How To Use?
+Download And Extrack Zip
+You Can Try On 
+-Web Hosting.
+-Xampp.
+Live demo on http://www.sadboy1922.dx.am
 
-Download zip on this repository
-
-Upload to your hosting 
-
-run , and enjoy it :)
